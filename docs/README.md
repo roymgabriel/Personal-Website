@@ -1,5 +1,3 @@
-https://roymgabriel.github.io/
-
 # Roy Makkar Gabriel's Website Portfolio
 
 ### An aspiring entrepreneur and ISyE GT Student ✨.
