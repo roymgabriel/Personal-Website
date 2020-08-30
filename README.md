@@ -1,10 +1,10 @@
 # Portfolio Template
 
-### A beautiful minimal and accessible portfolio template for Developers ✨.
+### Roy Makkar Gabriel's Personal Portfolio Website ✨.
 
 To View the live site click [here &rarr;](https://portfolio-template.surge.sh)
 
-![Portfolio Gif](/images/portfolio.gif)
+<!-- ![Portfolio Gif](/images/portfolio.gif) -->
 
 ## Features
 
@@ -24,7 +24,7 @@ To View the live site click [here &rarr;](https://portfolio-template.surge.sh)
 
 ## Getting Started 🚀
 
-You'll need [Git](https://git-scm.com) to be installed on your computer. 
+You'll need [Git](https://git-scm.com) to be installed on your computer.
 ```
 # Clone this repository
 $ git clone https://github.com/nisarhassan12/portfolio-template
@@ -34,7 +34,7 @@ If you don't have Git installed or you don't like using the terminal then you ca
 
 ## Editing the Template 🔨
 
-Go to `index.html` and fill your information. 
+Go to `index.html` and fill your information.
 
 ### Header
 
@@ -75,7 +75,7 @@ Each div with class `work__box` represents a project, replace the contents of th
     <div class="work__links">
         <a href="#" class="link__text">
         Visit Site <span>&rarr;</span>
-        </a> 
+        </a>
         <a href="https://github.com/nisarhassan12/portfolio" target="_blank">
         <img src="./images/github.svg" class="work__code" alt="GitHub">
         </a>
@@ -216,7 +216,7 @@ For changing the screenshot:
         </p>
         <div class="footer__github-buttons">
           <iframe
-            src="https://ghbtns.com/github-btn.html?user=nisarhassan12&repo=portfolio-template&type=watch&count=true" 
+            src="https://ghbtns.com/github-btn.html?user=nisarhassan12&repo=portfolio-template&type=watch&count=true"
             frameborder="0" scrolling="0" width="170" height="20" title="Watch Portfolio Template on GitHub">
           </iframe>
         </div>
